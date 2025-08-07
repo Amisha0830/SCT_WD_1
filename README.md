@@ -1,1 +1,1 @@
-# SCT_WD_1
+This repository contains a responsive landing page built as part of a task assigned by SkillCraft Technology. The project showcases modern web development practices including clean design, responsive layout, and optimized performance across devices.
